@@ -1,6 +1,6 @@
 # epScript Language Server
 
-A Language SErver providing IDE features to assit with epScript development.
+A Language Server providing IDE features to assit with epScript development.
 Works out of the box with any editor that supports the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ## Features
