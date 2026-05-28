@@ -1,10 +1,8 @@
-[package]
-name = "epscript-language-server"
-version = "0.1.0"
-edition = "2024"
-
 [workspace]
 members = ["crates/builtin","crates/ide","crates/lsp", "crates/syntax"]
 resolver = "2"
 
-[dependencies]
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
